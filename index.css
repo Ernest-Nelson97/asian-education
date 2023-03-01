@@ -28,6 +28,10 @@ li {
     margin: 0 20px;
 }
 
+li:hover{
+	cursor: pointer;
+}
+
 /*#2e0f74*/
 
 img{
